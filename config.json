@@ -1,0 +1,40 @@
+{
+  "app_height": 600,
+  "app_width": 600,
+  "font_size": 13,
+  "accounts_file": "C:/Users/vboxuser/Desktop/clients/accounts.txt",
+  "clients": {
+    "client 1": "C:/Users/vboxuser/Desktop/clients/one/",
+    "Client2": "C:/Users/vboxuser/Desktop/clients/two/",
+    "three": "C:/Users/vboxuser/Desktop/clients/three/",
+    "four": "C:/Users/vboxuser/Desktop/clients/four/"
+  },
+  "keywords": [".txt", "txt"],
+  "stacks": {
+    "stack1": {
+      "startx": 0,
+      "starty": 0,
+      "offsetx": 20,
+      "offsety": 20
+    },
+    "stack2": {
+      "startx": 0,
+      "starty": 500,
+      "offsetx": 20,
+      "offsety": 20
+    },
+    "stack3": {
+      "startx": 500,
+      "starty": 0,
+      "offsetx": 20,
+      "offsety": 20
+    },
+    "stack4": {
+      "startx": 500,
+      "starty": 500,
+      "offsetx": 20,
+      "offsety": 20
+    }
+  },
+  "wait": 1
+}
